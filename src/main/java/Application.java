@@ -58,6 +58,8 @@ public class Application {
         }
 
         /**
+         * Checks and returns the precedence value of a mathematical operator or other character. Characters that are
+         * not operators have a value of -1.
          *
          * @param character A char
          * @return          An integer value representing the precedence value of a mathematical operator.
