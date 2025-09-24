@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InfixToPostfix:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InfixToPostfix_jar</output-path>
+    <root id="archive" name="InfixToPostfix.jar">
+      <element id="module-output" name="InfixToPostfix" />
+    </root>
+  </artifact>
+</component>
